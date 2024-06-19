@@ -34,7 +34,7 @@ Using BERT encoder to vectorize the tweets, followed by classification using log
 
 ### Visualization
 1. **Top 25 Words**
-   ![Top 25 Words](images/try1.png)
+  <img src="images/try1.png" alt="Sample Image" width="500">
 2. **Tweet Length Distribution**
    ![Tweet Length Distribution](images/try2.png)
 3. **Word Clouds (General)**
