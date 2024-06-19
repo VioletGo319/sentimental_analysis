@@ -40,12 +40,14 @@ Using BERT encoder to vectorize the tweets, followed by classification using log
 3. **Word Clouds (General)**
   <img src="images/try3.png" alt="Sample Image" width="500">
 4. **Word Clouds (Hate Speech)**
-   ![Word Cloud (Hate Speech)](path/to/image)
-
+  <img src="images/try4.png" alt="Sample Image" width="500">
+5. **Words of Hate Topics
+  <img src="images/try5.png" alt="Sample Image" width="500">
 ### Models Used
 Using BERT encoder to vectorize the tweets, followed by classification using logistic regression, random forest, neural network, and BERT models to distinguish between normal speech and hate speech, aiming to improve the social media environment.
 
 ### Evaluation
 Plot ROC-AUC curve to evaluate the model performance.
-![ROC-AUC Curve](path/to/image)
+<img src="images/try6.png" alt="Sample Image" width="500">
+
 
