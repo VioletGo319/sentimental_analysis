@@ -47,7 +47,7 @@ Using BERT encoder to vectorize the tweets, followed by classification using log
 Using BERT encoder to vectorize the tweets, followed by classification using logistic regression, random forest, neural network, and BERT models to distinguish between normal speech and hate speech, aiming to improve the social media environment.
 
 ### Evaluation
-Plot ROC-AUC curve to evaluate the model performance.
+Plot ROC-AUC curve to evaluate the model performance.<br>
   <img src="images/try5.png" alt="Sample Image" width="500">
 
 
