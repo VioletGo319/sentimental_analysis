@@ -34,11 +34,11 @@ Using BERT encoder to vectorize the tweets, followed by classification using log
 
 ### Visualization
 1. **Top 25 Words**
-   ![Top 25 Words](path/to/image)
+   ![Top 25 Words](images/try1.png)
 2. **Tweet Length Distribution**
-   ![Tweet Length Distribution](path/to/image)
+   ![Tweet Length Distribution](images/try2.png)
 3. **Word Clouds (General)**
-   ![Word Cloud (General)](path/to/image)
+   ![Word Cloud (General)](images/try3.png)
 4. **Word Clouds (Hate Speech)**
    ![Word Cloud (Hate Speech)](path/to/image)
 
