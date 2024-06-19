@@ -12,7 +12,7 @@
 ## Data Source
 The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/vkrahul/twitter-hate-speech) and includes tweets from Twitter, labeled as positive (normal speech) or negative (hate speech).
 
-- **Size**: 100,000 rows x 2 columns (2/3 for training, 1/3 for testing)
+- **Size**: 50k rows x 2 columns (2/3 for training, 1/3 for testing)
 - **Description**: Each row represents a tweet and its corresponding classification as positive or negative.
 
 ## Approaches of Analysis
